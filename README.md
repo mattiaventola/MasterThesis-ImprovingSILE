@@ -1,9 +1,7 @@
 # MasterThesis
 
-Master thesis done within the universities 
-
-UPV (Universitat Politècnica de València)  
-
+Master thesis done within the universities:\
+UPV (Universitat Politècnica de València)\  
 UniMib (Università degli Studi di Milano-Bicocca)
 
 The work is structured in three phases:
