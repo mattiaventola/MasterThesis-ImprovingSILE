@@ -1,9 +1,9 @@
 # Identification of Genomic Variants using SILE method
 
-Master thesis done within the universities:\ 
+Master thesis done within the universities: 
 
-• UPV (Universitat Politècnica de València)\
-• UniMib (Università degli Studi di Milano-Bicocca)
+  • UPV (Universitat Politècnica de València)\
+  • UniMib (Università degli Studi di Milano-Bicocca)
 
 The work is structured in three phases:
 
